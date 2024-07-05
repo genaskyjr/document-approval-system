@@ -1,0 +1,42 @@
+
+
+body{
+    font-family: "Segoe UI";
+    /* font-family: "Arial", "Helvetica", "sans-serif"; */
+}
+
+/* Login Button */
+#loginBtn, #loginBtn1, #loginBtn2{
+    background-color: #fe5a1d;
+    color: #fafafa;
+    border-radius: 4px;
+   
+}
+
+
+
+#loginBtn:hover, #loginBtn1:hover, #loginBtn2:hover{
+    background-color: #ffffff;
+    border-color: #fe5a1d;
+    color: #fe5a1d;
+}
+
+/* Form input*/
+.form-control{
+    border-radius: 4px;
+}
+
+.form-control:focus {
+    border-color: #fe5a1d;
+    box-shadow:  0 0 1px #fe5a1d;
+}
+
+/* card border */
+.card{
+    border-radius: 4px;
+}
+
+
+#forgot{
+    color: #fe5a1d;
+}

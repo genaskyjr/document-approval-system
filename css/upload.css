@@ -1,0 +1,73 @@
+
+
+body{
+    font-family: "Segoe UI";
+    /* font-family: "Arial", "Helvetica", "sans-serif"; */
+}
+
+
+
+/* Form input*/
+.form-control{
+    border-radius: 4px;
+}
+
+.form-control:focus {
+    border-color: #fe5a1d;
+    box-shadow:  0 0 1px #fe5a1d;
+}
+
+
+/* Account Button */
+
+#accountBtn{
+    border: 1px #fe5a1d solid;
+    border-radius: 4px;
+}
+
+#accountBtn:hover, #accountBtn:focus{
+    background-color: #fe5a1d;
+    color: #ffe4d9;
+}
+
+
+/* card border */
+.card{
+    border-radius: 4px;
+}
+
+
+.form-select{
+    border-radius: 4px;
+}
+
+.form-select:active, .form-select:focus{
+    border-color: #fe5a1d;
+    box-shadow:  0 0 1px #fe5a1d;
+}
+
+
+#send, #addRecipientbtn{
+    border-radius: 4px;
+    background-color: #fe5a1d;
+    color: #ffe4d9;
+    border-color: #fe5a1d;
+}
+
+#removeRecipient{
+    border-radius: 4px;
+}
+
+#send:hover, #addRecipientbtn:hover{
+    background-color: #ffffff;
+    border-color: #fe5a1d;
+    color: #fe5a1d;
+}
+
+.dropdown-item:hover, .dropdown-item:focus{
+    background-color: #fc7848;
+}
+
+#rowKo{
+    border-color: #fc7848;
+}

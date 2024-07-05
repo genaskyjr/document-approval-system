@@ -1,0 +1,2 @@
+[04-Apr-2024 12:52:55 UTC] PHP Warning:  move_uploaded_file(../../users_folder/1712235175signature(13).png): Failed to open stream: No such file or directory in /home/atsphdas/public_html/admin/backend/edit_user.php on line 16
+[04-Apr-2024 12:52:55 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJr6QH8' to '../../users_folder/1712235175signature(13).png' in /home/atsphdas/public_html/admin/backend/edit_user.php on line 16
